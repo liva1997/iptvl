@@ -1,0 +1,202 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",1 FIRST KOSOVA
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10277.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",1 FIRST KOSOVA
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10277.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",24 KITCHEN
+http://rv.imax.re:80/5124037472/1572081885/81974?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A-MOL
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/12866?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A-MOL TV
+http://rv.imax.re:80/5124037472/1572081885/81957?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 REPORT
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10278.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 REPORT
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10278.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 SHQIPTARE
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10279.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 SHQIPTARE
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10279.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC NEWS
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10281.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC NEWS
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10281.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC News FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/843?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ADRIA
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10282.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",AL PAZAR
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/43841?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Undefined",AL | Ora News,Ora News
+https://tv.oranews.tv/live/oranews/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB
+http://rv.imax.re:80/5124037472/1572081885/81954?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB ACTION
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10283.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB ACTION
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10283.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB COMEDY
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10285.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB FOLK
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10287.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB HINDI
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10288.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB HITS
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10289.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB HITS
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10289.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB HUMOR 2
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10291.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB HUMOR 2
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10291.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB ISLAM
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10292.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB ISLAM
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10292.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB MUSIC HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10294.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB THRILLER
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10296.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB THRILLER
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10296.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB UK HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10297.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB UK HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10297.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB WESTERN HD
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10298.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT M
+http://rv.imax.re:80/5124037472/1572081885/82175?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT M FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10301.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT M HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/39562?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT M HD
+http://rv.imax.re:80/5124037472/1572081885/82176?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",APOLLON
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10307.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",APOLLON NEWS FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10308.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",APOLLON NEWS FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10308.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",APOLLON TV
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30969?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART DOKU 1 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10309.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART DOKU 1 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10309.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART DOKU 2 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10310.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART DOKU 2 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10310.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART Doku 1 FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30074?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART Doku 2 FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30075?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART EPISODE HD
+http://rv.imax.re:80/5124037472/1572081885/81999?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART KINO 1 HD
+http://rv.imax.re:80/5124037472/1572081885/82002?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART KINO 1 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10311.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART KINO 2 HD
+http://rv.imax.re:80/5124037472/1572081885/82001?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART KINO 2 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10312.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART KINO 3 HD
+http://rv.imax.re:80/5124037472/1572081885/82000?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART KINO 3 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10313.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART KINO 3 HD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10313.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART Kino 1 HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30078?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART Kino 2 HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30077?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART Kino 3 HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30076?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART PRIME HD
+http://rv.imax.re:80/5124037472/1572081885/81998?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 1 HD
+http://rv.imax.re:80/5124037472/1572081885/81918?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 2 FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10315.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 2 HD
+http://rv.imax.re:80/5124037472/1572081885/81917?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 3 HD
+http://rv.imax.re:80/5124037472/1572081885/81916?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 1 FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30158?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 1 HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30081?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 2 FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30159?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 2 HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30080?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 3 FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30160?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 3 HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30079?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ARTA NEWS FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10318.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ASHKALI ISLAM
+http://rv.imax.re:80/5124037472/1572081885/81951?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",AV TV
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10319.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Adria Net
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/28717?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Thriller AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4752?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/39491?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30140?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/10916?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Arta News HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1178?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY BOX TV HD
+http://rv.imax.re:80/5124037472/1572081885/82094?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY TV
+http://rv.imax.re:80/5124037472/1572081885/82110?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY TV
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10320.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY TV
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10320.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BANG BANG
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10321.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BANG BANG
+http://rv.imax.re:80/5124037472/1572081885/82112?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BANG BANG
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10321.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF MUSIK
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10322.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF MUSIK
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10322.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF Music
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/880?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BESA TV
+http://rv.imax.re:80/5124037472/1572081885/82139?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Baby Tv
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/3401?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Bang Bang
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/876?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Besa TV
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/890?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Blue Sky TV (Shkoder)
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/7832?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Boomerang AL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10216?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",CHANNEL 7
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10325.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",CHANNEL ONE FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/10326.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",CHANNEL ONE FHD VIP
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10326.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",CITY TV
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10328.m3u8?checkedby:hlscat.com
